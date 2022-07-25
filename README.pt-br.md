@@ -1,6 +1,6 @@
-# Hi there, I'm Pedro :smile:
+# Olá, eu sou o Pedro :smile:
 
-Leia esse arquivo em <b>Português</b> [aqui](https://github.com/pedroesmerio/pedroesmerio/blob/main/README.pt-br.md).
+Read this file in <b>English</b> at [here](https://github.com/pedroesmerio/pedroesmerio/blob/main/README.md).
 
 <img
 	src="https://github.com/pedroesmerio/pedroesmerio/blob/main/assets/profile-card.png?raw=true"
@@ -8,21 +8,21 @@ Leia esse arquivo em <b>Português</b> [aqui](https://github.com/pedroesmerio/pe
 	height="510px"
 	align="right"
 />
-I'm Pedro Esmerio, I'm a Full Stack developer and UX Designer with an emphasis on development: <br/><br/> Javascript | React.js | Next.js | node.js
+Eu sou o Pedro Esmerio, sou desenvolvedor Full Stack e UX Designer com ênfase no desenvolvimento: <br/><br/> Javascript | React.js | Next.js | Node.js
 
-Despite being Full stack, I have more experience as a Front End Developer, mainly in projects that use the React.js ecosystem as the main stack.
+Apesar de ser Full stack, eu tenho maior experiência como Front End Developer, principalmente em projetos que usam o ecossistema React.js como stack principal.
 
-I am communicative and organized in my work environment, and I can be very observant and creative. This means that I am always presenting ideas and opinions that can contribute to the continuous improvement of projects, often starting the development of a new feature.
+Sou comunicativo e organizado em meu ambiente de trabalho, e posso ser muito observador e criativo. Isso faz com que eu tenha eu esteja sempre apresentando ideias e opiniões que possam contribuir na melhoria continua dos projetos, muitos vezes dando início ao desenvolvimento de uma nova feature.
 
-For me, the process of building a product is a personal satisfaction. Seeing the transformation of what was once a problem, into something that when in production is there, making people's lives easier, is for me a super power that we devs possess.
-
-</br>
-Other than that, I'm constantly updating myself with market technologies and participating in Workshops.
+Para mim o processo de construção de um produto é uma saitsfação pessoal. Ver a transformação do que um dia já foi um problema, em algo que quando em produção está lá, facilitando a vida das pessoas, é para mim um super poder que nós devs possuímos.
 
 </br>
+Fora isso estou constantemente me atualizando com as tecnologias do mercado e participando de Workshops.
+
+</br>
 </br>
 
-### :computer: Technical Skills
+### :computer: Habilidades Técnicas
 
 
 #### 🎨 ✍🏼 Designing:
@@ -31,7 +31,7 @@ Other than that, I'm constantly updating myself with market technologies and par
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
-#### :books: Languages
+#### :books: Linguagens
 
 
 <a href="#">
@@ -60,7 +60,7 @@ Other than that, I'm constantly updating myself with market technologies and par
 </a>
 
 
-#### :wrench: Tools & Environment
+#### :wrench: Ferramentas & Ambientes
 
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -80,7 +80,7 @@ Other than that, I'm constantly updating myself with market technologies and par
 
 
 
-#### Arquitetures and Others
+#### Arquiteturas e Outros
 
 <p align="left">
 
