@@ -15,7 +15,7 @@ Apesar de ser Full stack, eu tenho maior experiência como Front End Developer, 
 Sou comunicativo e organizado em meu ambiente de trabalho, e posso ser muito observador e criativo. Isso faz com que eu tenha eu esteja sempre apresentando ideias e opiniões que possam contribuir na melhoria continua dos projetos, muitos vezes dando início ao desenvolvimento de uma nova feature.
 
 </br>
-Estou constantemente me atualizando com as tecnologias do mercado e participando de Workshops. Para mim o processo de construção de um produto é uma saitsfação pessoal. Ver a transformação do que um dia já foi um problema, em algo que quando em produção está lá, facilitando a vida das pessoas, é para mim um super poder que nós devs possuímos.
+Estou constantemente me atualizando com as tecnologias do mercado e participando de Workshops. Para mim o processo de construção de um produto é uma satisfação pessoal. Ver a transformação do que um dia já foi um problema, em algo que quando em produção está lá, facilitando a vida das pessoas, é para mim um super poder que nós devs possuímos.
 
 </br>
 </br>
