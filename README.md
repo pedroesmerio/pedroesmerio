@@ -8,13 +8,13 @@ Leia esse arquivo em <b>Português</b> [aqui](https://github.com/pedroesmerio/pe
 	height="510px"
 	align="right"
 />
-I'm Pedro Esmerio, I'm a Full Stack developer and UX Designer with an emphasis on development: <br/><br/> Javascript | React.js | Next.js | node.js
+I'm Pedro Esmerio, I'm a Full Stack developer and UX Designer with an emphasis on the stack: <br/><br/> Javascript | React.js | Next.js | node.js
 
-Despite being Full stack, I have more experience as a Front End Developer, mainly in projects that use the React.js ecosystem as the main stack.
+I project my career as a Full Stack developer, despite having more experience as a Front End Developer, mainly in projects that use the React.js ecosystem as the main stack.
 
 I am communicative and organized in my work environment, and I can be very observant and creative. This means that I am always presenting ideas and opinions that can contribute to the continuous improvement of projects, often starting the development of a new feature.
 
-For me, the process of building a product is a personal satisfaction. Seeing the transformation of what was once a problem, into something that when in production is there, making people's lives easier, is for me a super power that we devs possess.
+For me, the process of building a product is a personal satisfaction. Seeing the transformation of what was once a problem, into something that when in production is there, making people's lives easier, is for me a super hability that we devs possess.
 
 </br>
 Other than that, I'm constantly updating myself with market technologies and participating in Workshops.
