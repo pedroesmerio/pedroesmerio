@@ -12,10 +12,10 @@ Eu sou o Pedro Esmerio, sou desenvolvedor Full Stack e UX Designer com ênfase n
 
 Apesar de ser Full stack, eu tenho maior experiência como Front End Developer, principalmente em projetos que usam o ecossistema React.js como stack principal.
 
-Sou comunicativo e organizado em meu ambiente de trabalho, e posso ser muito observador e criativo. Isso faz com que eu tenha eu esteja sempre apresentando ideias e opiniões que possam contribuir na melhoria continua dos projetos, muitos vezes dando início ao desenvolvimento de uma nova feature.
+Sou comunicativo e organizado em meu ambiente de trabalho, e posso ser observador e criativo. Isso faz com que eu esteja sempre apresentando ideias e opiniões que possam contribuir na melhoria continua dos projetos, muitas vezes dando início ao desenvolvimento de uma nova feature.
 
 </br>
-Estou constantemente me atualizando com as tecnologias do mercado e participando de Workshops. Para mim o processo de construção de um produto é uma satisfação pessoal. Ver a transformação do que um dia já foi um problema, em algo que quando em produção está lá, facilitando a vida das pessoas, é para mim um super poder que nós devs possuímos.
+Estou constantemente me atualizando com as tecnologias do mercado e participando de Workshops. Para mim o processo de construção de um produto é uma satisfação pessoal. Ver a transformação do que um dia já foi um problema, em algo que quando em produção está lá, facilitando a vida das pessoas, é para mim uma super habilidade que nós devs possuímos.
 
 </br>
 </br>
