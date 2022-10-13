@@ -8,7 +8,7 @@ Leia esse arquivo em <b>Português</b> [aqui](https://github.com/pedroesmerio/pe
 	height="510px"
 	align="right"
 />
-I'm Pedro Esmerio, I'm a Full Stack developer and UX Designer with an emphasis on the stack: <br/><br/> Javascript | React.js | Next.js | node.js
+I'm Pedro Esmerio, I'm a Full Stack developer and UX Designer with an emphasis on the stack: <br/><br/> Javascript | React.js | Next.js | React Native | node.js
 
 I project my career as a Full Stack developer, despite having more experience as a Front End Developer, mainly in projects that use the React.js ecosystem as the main stack.
 
